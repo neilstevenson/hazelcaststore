@@ -1,2 +1,6 @@
+github.com/gorilla/securecookie v1.1.1 h1:miw7JPhV+b/lAHSXz4qd/nN9jRiAFV5FwjeKyCS8BvQ=
+github.com/gorilla/securecookie v1.1.1/go.mod h1:ra0sb63/xPlUeL+yeDciTfxMRAA+MP+HVt/4epWDjd4=
+github.com/gorilla/sessions v1.2.0 h1:S7P+1Hm5V/AT9cjEcUD5uDaQSX0OE577aCXgoaKpYbQ=
+github.com/gorilla/sessions v1.2.0/go.mod h1:dk2InVEVJ0sfLlnXv9EAgkf6ecYs/i80K/zI+bUmuGM=
 github.com/hazelcast/hazelcast-go-client v0.6.0 h1:knJ0kGeGjRK77bv2pl+JcNavwhTltQL562UUPwV6NMc=
 github.com/hazelcast/hazelcast-go-client v0.6.0/go.mod h1:VhwtcZ7sg3xq7REqGzEy7ylSWGKz4jZd05eCJropNzI=
